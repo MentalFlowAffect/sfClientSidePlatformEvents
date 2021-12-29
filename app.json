@@ -1,9 +1,9 @@
 {
-  "name": "salesforce-dx-pipeline-platformevents",
+  "name": "salesforce-platform-events",
   "version": "0.0.1",
-  "description": "Test application for the salesforce-buildpack",
+  "description": "Salesforce Platform Events with Heroku Build-pack",
   "repository": "https://github.com/TooEasyBro/sfClientSidePlatformEvents",
-  "author": "Trailhead",
+  "author": "Jacob Laramee",
   "license": "ALv2",
   "bugs": "https://github.com/TooEasyBro/sfClientSidePlatformEvents/issues",
   "homepage": "https://github.com/TooEasyBro/sfClientSidePlatformEvents#readme",
