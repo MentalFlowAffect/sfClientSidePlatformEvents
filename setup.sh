@@ -13,7 +13,7 @@
 HEROKU_TEAM_NAME=""
 
 # Descriptive name for the Heroku app
-HEROKU_APP_NAME="sfeventspipeline"
+HEROKU_APP_NAME="sfevents"
 
 # Name of the Heroku apps you'll use
 HEROKU_DEV_APP_NAME="$HEROKU_APP_NAME-dev"
